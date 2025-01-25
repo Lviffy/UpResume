@@ -1,0 +1,80 @@
+2025-01-25 05:17:02,480 - __main__ - INFO - Starting server...
+2025-01-25 05:17:02,481 - asyncio - DEBUG - Using selector: EpollSelector
+2025-01-25 05:17:02,494 - __main__ - INFO - Starting the FastAPI server...
+2025-01-25 05:17:02,600 - __main__ - INFO - NLTK data downloaded successfully
+2025-01-25 05:17:27,254 - __main__ - INFO - Incoming request: GET http://localhost:8000/health
+2025-01-25 05:17:27,255 - __main__ - INFO - Response status: 200
+2025-01-25 05:17:27,259 - __main__ - INFO - Incoming request: GET http://localhost:8000/health
+2025-01-25 05:17:27,260 - __main__ - INFO - Response status: 200
+2025-01-25 05:17:30,552 - __main__ - INFO - Incoming request: POST http://localhost:8000/analyze_file/
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_header_value with data[63:126]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_header_field with data[128:140]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_header_value with data[142:157]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_part_data with data[161:1548]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_part_data with data[1550:1853]
+2025-01-25 05:17:30,553 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[1855:89124]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[89126:89338]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[89340:90602]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[0:1]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[90603:92752]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[92754:93092]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[93094:93432]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_data with data[93434:93847]
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-01-25 05:17:30,554 - multipart.multipart - DEBUG - Calling on_end with no data
+2025-01-25 05:17:30,554 - __main__ - INFO - Received file: Senior IT Manager Resume.PDF
+2025-01-25 05:17:31,189 - __main__ - INFO - Analysis completed successfully
+2025-01-25 05:17:31,190 - __main__ - INFO - Response status: 200
+2025-01-25 05:18:52,533 - __main__ - INFO - Incoming request: GET http://localhost:8000/health
+2025-01-25 05:18:52,534 - __main__ - INFO - Response status: 200
+2025-01-25 05:19:30,346 - __main__ - INFO - Incoming request: GET http://localhost:8000/health
+2025-01-25 05:19:30,346 - __main__ - INFO - Response status: 200
+2025-01-25 05:19:30,348 - __main__ - INFO - Incoming request: GET http://localhost:8000/health
+2025-01-25 05:19:30,348 - __main__ - INFO - Response status: 200
+2025-01-25 05:19:32,790 - __main__ - INFO - Incoming request: POST http://localhost:8000/analyze_file/
+2025-01-25 05:19:32,790 - multipart.multipart - DEBUG - Calling on_part_begin with no data
+2025-01-25 05:19:32,790 - multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2025-01-25 05:19:32,790 - multipart.multipart - DEBUG - Calling on_header_value with data[63:126]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_header_field with data[128:140]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_header_value with data[142:157]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_header_end with no data
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[161:1548]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[1550:1977]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[1979:57045]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:1]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[57046:66162]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[66164:83280]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[83282:84799]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:1]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[84800:89056]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:1]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[89057:92732]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[92734:93072]
+2025-01-25 05:19:32,791 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,792 - multipart.multipart - DEBUG - Calling on_part_data with data[93074:93412]
+2025-01-25 05:19:32,792 - multipart.multipart - DEBUG - Calling on_part_data with data[0:2]
+2025-01-25 05:19:32,792 - multipart.multipart - DEBUG - Calling on_part_data with data[93414:93847]
+2025-01-25 05:19:32,792 - multipart.multipart - DEBUG - Calling on_part_end with no data
+2025-01-25 05:19:32,792 - multipart.multipart - DEBUG - Calling on_end with no data
+2025-01-25 05:19:32,792 - __main__ - INFO - Received file: Senior IT Manager Resume.PDF
+2025-01-25 05:19:32,803 - __main__ - INFO - Analysis completed successfully
+2025-01-25 05:19:32,803 - __main__ - INFO - Response status: 200
