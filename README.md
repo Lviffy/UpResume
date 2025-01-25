@@ -66,6 +66,7 @@ UpResume is an innovative AI-powered platform that helps job seekers create, opt
 
 - Node.js (v18 or higher)
 - npm or yarn package manager
+- Python3
 
 ## 🔧 Tech Stack
 
@@ -77,6 +78,7 @@ UpResume is an innovative AI-powered platform that helps job seekers create, opt
 - Redux Toolkit
 - React Router DOM
 - Framer Motion
+- Python
 - Google Generative AI
 
 ## 🚀 Getting Started
